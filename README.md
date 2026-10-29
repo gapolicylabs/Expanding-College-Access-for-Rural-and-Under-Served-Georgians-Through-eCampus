@@ -13,4 +13,4 @@ Young people from rural areas enroll in and complete postsecondary education at 
 
 ## Related Research
 
-- [Instructors Experiences in the Technical College System of Georgia](https://doi.org/10.57709/8VQ7-8A37)
+- [Instructors' Experiences in the Technical College System of Georgia](https://doi.org/10.57709/8VQ7-8A37)
