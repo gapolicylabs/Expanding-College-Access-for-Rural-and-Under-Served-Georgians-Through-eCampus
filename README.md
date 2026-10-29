@@ -1,4 +1,4 @@
-# Expanding-College-Access-for-Rural-and-Under-Served-Georgians-Through-eCampus
+# Expanding College Access for Rural and Under-Served Georgians Through eCampus
 
 ## Policy Context
 
