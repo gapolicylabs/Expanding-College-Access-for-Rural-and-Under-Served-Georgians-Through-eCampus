@@ -6,7 +6,11 @@ Young people from rural areas enroll in and complete postsecondary education at 
 
 ## Our Questions
 
-- How does eCampus affect academic and employment outcomes for rural learners and for rural learners from low-income backgrounds and historically underserved groups? 
-- How do outcomes differ among different groups of rural learners?
-- How do the availabilities of local campus technological, instructional, student success, and other supports and off-campus supports, such as the provision of Wi-Fi hotspots, affect the outcomes associated with eCampus for rural learners and for rural learners from different groups?
-- How does eCampus contribute to the diffusion of advanced and innovative learning technologies to TCSG’s rural campuses and rural learners? Do experiences with these technologies improve student outcomes?
+1. How does eCampus affect academic and employment outcomes for rural learners and for rural learners from low-income backgrounds and historically underserved groups? 
+2. How do outcomes differ among different groups of rural learners?
+3. How do the availabilities of local campus technological, instructional, student success, and other supports and off-campus supports, such as the provision of Wi-Fi hotspots, affect the outcomes associated with eCampus for rural learners and for rural learners from different groups?
+4. How does eCampus contribute to the diffusion of advanced and innovative learning technologies to TCSG’s rural campuses and rural learners? Do experiences with these technologies improve student outcomes?
+
+## Related Research
+
+- [Instructors Experiences in the Technical College System of Georgia](https://doi.org/10.57709/8VQ7-8A37)
